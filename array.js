@@ -3,7 +3,7 @@ const bunnies = [
     { name: "Lucy", age: 5,},
     { name: "Bob", age: 3, },
     { name: "Charlie", age: 4,},
-    { name: "Daisy", age: 2, },
+    { name: "Daisy", age: 2,},
     { name: "Ella", age: 6,},
     { name: "Frank", age: 1,}
 ];
